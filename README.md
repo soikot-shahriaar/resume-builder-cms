@@ -119,7 +119,7 @@ resume-builder-cms/
 ### 1. Download and Setup
 ```bash
 # Clone or download the project
-git clone <repository-url> resume-builder-cms
+git clone https://github.com/soikot-shahriaar/resume-builder-cms.git
 cd resume-builder-cms
 
 # Set proper permissions
